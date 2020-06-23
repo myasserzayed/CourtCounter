@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+
+    </style>
+    <dimen name="margin138dp">138dp</dimen>
+    <dimen name="margin24dp">24dp</dimen>
+    <dimen name="margin16dp">16dp</dimen>
+    <dimen name="margin8dp">8dp</dimen>
+
+    <dimen name="teamName_size">20sp</dimen>
+    <dimen name="scoreSize">56sp</dimen>
+    <dimen name="btn_textSize">16sp</dimen>
+
+</resources>
